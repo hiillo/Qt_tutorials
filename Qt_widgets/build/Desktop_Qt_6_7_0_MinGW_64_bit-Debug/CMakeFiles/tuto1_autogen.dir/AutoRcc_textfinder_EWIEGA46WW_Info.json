@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "C:/Users/Hillo/Downloads/coding/qt/tuto1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/tuto1_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Hillo/Downloads/coding/qt/tuto1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Hillo/Downloads/coding/qt/tuto1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Hillo/Downloads/coding/qt/tuto1",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Hillo/Downloads/coding/qt/tuto1",
+	"INCLUDE_DIR" : "C:/Users/Hillo/Downloads/coding/qt/tuto1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/tuto1_autogen/include",
+	"INPUTS" : [ "C:/Users/Hillo/Downloads/coding/qt/tuto1/input.txt" ],
+	"LOCK_FILE" : "C:/Users/Hillo/Downloads/coding/qt/tuto1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/tuto1_autogen.dir/AutoRcc_textfinder_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "textfinder" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_textfinder.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/Hillo/Downloads/coding/qt/tuto1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/tuto1_autogen.dir/AutoRcc_textfinder_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/Hillo/Downloads/coding/qt/tuto1/textfinder.qrc",
+	"VERBOSITY" : 0
+}

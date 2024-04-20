@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-149bd44a8e0c99713683.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tuto1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "tuto1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuto1-Debug-4a8d243804a38975a5c5.json",
+					"name" : "tuto1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuto1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuto1_autogen-Debug-19676f4584c1d9fdae8b.json",
+					"name" : "tuto1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuto1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuto1_autogen_timestamp_deps-Debug-52090ca5d93689cd89ff.json",
+					"name" : "tuto1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Hillo/Downloads/coding/qt/tuto1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Hillo/Downloads/coding/qt/tuto1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
